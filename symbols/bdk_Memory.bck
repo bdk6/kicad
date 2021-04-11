@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP C2101
+D 256x4 RAM
+$ENDCMP
+#
+#End Doc Library
