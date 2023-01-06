@@ -1,0 +1,25 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1N62xxA
+D 1500W unidirectional TRANSZORB® Transient Voltage Suppressor, DO-201AE
+K diode TVS voltage suppressor
+F https://www.vishay.com/docs/88301/15ke.pdf
+$ENDCMP
+#
+$CMP 1N630xA
+D 1500W unidirectional TRANSZORB® Transient Voltage Suppressor, DO-201AE
+K diode TVS voltage suppressor
+F https://www.vishay.com/docs/88301/15ke.pdf
+$ENDCMP
+#
+$CMP MAX77827
+D Single LiPo cell buck-boost regulator
+$ENDCMP
+#
+$CMP P6KExxA
+D 1500W unidirectional TRANSZORB® Transient Voltage Suppressor, DO-201AE
+K diode TVS voltage suppressor
+F https://www.vishay.com/docs/88301/15ke.pdf
+$ENDCMP
+#
+#End Doc Library
