@@ -1,0 +1,15 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# IRF510
+#
+DEF IRF510 Q 0 40 Y Y 1 F N
+F0 "Q" 0 0 50 H V C CNN
+F1 "IRF510" 0 0 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+ENDDRAW
+ENDDEF
+#
+#End Library
