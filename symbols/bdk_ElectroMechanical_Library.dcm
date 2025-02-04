@@ -1,3 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP TL1105A
+D Black tactile four pin pushbutton.
+$ENDCMP
+#
 #End Doc Library
